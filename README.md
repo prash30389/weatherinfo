@@ -1,0 +1,1 @@
+For Local execution : Please run the file "testng.xml" as testNGsuite
